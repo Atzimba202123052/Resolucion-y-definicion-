@@ -33,6 +33,8 @@ X= sqrt(400)
 disp ('El ancho de la pagina impresa es: ');
 X - 4
 
+
+
 % Calcular el valo de y
 % sabemos que y =600/x
 disp('El valo de y (altura de la pagina) es:');
